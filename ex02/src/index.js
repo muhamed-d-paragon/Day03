@@ -2,5 +2,5 @@ function main() {
     // comment
     /* comment2 */
     }
-main ();
+console.log(main());
 module.exports = main;
